@@ -9,6 +9,7 @@
 #include <cmath>
 
 int main() {
+    // this function calculates/prints the area & circumference of the circle
     std::cout << "If a circle has a radius of 15mm:" << std::endl;
     std::cout << "" << std::endl;
     std::cout << "Then..." << std::endl;
